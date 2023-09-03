@@ -4,7 +4,7 @@
 3) Переходим по ссылке https://github.com/t-chyngyz/ci-cd-demo2
 4) Делаем форк проекта ('Create a new fork')
 5) Жмем кнопку ('Add file' / 'Create new file')
-6) В поле 'Name your file' пишем (.github/workflows/ci-cd-demo.yml)
+6) В поле 'Name your file' вводим (.github/workflows/ci-cd-demo.yml)
 7) В контент вводим:
 ``` yaml
 name: GitHub Actions Demo
