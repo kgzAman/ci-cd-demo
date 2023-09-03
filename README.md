@@ -7,13 +7,12 @@
 6) В поле 'Name your file' пишем (.github/workflows/ci-cd-demo.yml)
 7) В контент вводим:
 ``` yaml
-# YAML
 name: GitHub Actions Demo
 on:
   push:
-    branches: [ master ]
+    branches: [ master, main ]
   pull_request:
-    branches: [ master ]
+    branches: [ master, main ]
 jobs:
   init:
     runs-on: ubuntu-latest
