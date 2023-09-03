@@ -1,5 +1,5 @@
 # ci-cd-demo
-1) github.com
+1) Переходим по ссылке https://github.com
 2) Регистрация
 3) Переходим по ссылке https://github.com/t-chyngyz/ci-cd-demo2
 4) Делаем форк проекта ('Create a new fork')
